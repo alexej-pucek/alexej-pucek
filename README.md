@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello, I'm Alex | LayerLabs
 
-<!--
-**alexej-pucek/alexej-pucek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a technical creator focused on the intersection of hardware design, CAD engineering, and software development. I specialize in designing functional 3D models and exploring application development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Expertise
+
+*   **CAD Engineering & 3D Design:** Advanced mechanical design using Autodesk Fusion 360, focusing on functional parts and parametric designs.
+*   **Software Development:** Currently building my skills in C++ and building a solid foundation in full-stack architecture, frontend, and backend integration.
+*   **Product Development:**  Experienced in the full pipeline from digital concept and rapid prototyping to final physical execution and optimization.
+
+---
+
+### 💻 Technical Stack
+
+*   **Languages & Tools:** C++, Git, Visual Studio
+*   **CAD & Manufacturing:** Autodesk Fusion 360, slicing software, advanced FDM 3D printing workflows
+*   **Current Projects:** Managing and expanding the LayerLabs portfolio, engineering high-download community designs.
