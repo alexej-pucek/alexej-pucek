@@ -35,7 +35,7 @@
   <a href="https://x.com/Erpu22" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.instagram.com/alexej_pucek/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://sk.pinterest.com/alexejpucek/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
-  <a href="https://makerworld.com/en/@erpu22/upload" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MakerWorld" /></a>
+  <a href="https://makerworld.com/en/@erpu22/upload" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MakerWorld-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MakerWorld" /></a>
   <a href="https://alexej-pucek.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:alexej.pucek@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
